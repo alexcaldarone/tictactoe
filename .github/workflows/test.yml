@@ -19,4 +19,4 @@ jobs:
           python-version: 3.9.13
       
       - name: test board
-        run: tests/test_board.py
+        run: python tests/test_board.py
