@@ -1,4 +1,4 @@
-from game_manager import GameManager
+from scripts.game_manager import GameManager
 
 def show_menu():
     print('''\nSelect something to do:
