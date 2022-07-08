@@ -1,5 +1,5 @@
-from ai import AIPlayer
-from board import Board
+from scripts.ai import AIPlayer
+from scripts.board import Board
 import json
 
 

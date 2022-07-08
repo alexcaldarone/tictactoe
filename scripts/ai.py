@@ -1,4 +1,4 @@
-from board import Board
+from scripts.board import Board
 import random
 
 class AIPlayer:
