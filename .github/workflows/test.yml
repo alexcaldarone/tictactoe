@@ -16,5 +16,8 @@ jobs:
         with:
           python-version: 3.9.13
       
+      - name: setup
+        run: python setup.py
+      
       - name: test board
         run: python tests/test_board.py
